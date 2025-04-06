@@ -1,0 +1,1 @@
+add_executable(SimpleOrderedLinkedList listsordered.c)

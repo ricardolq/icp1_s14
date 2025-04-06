@@ -3,4 +3,4 @@ cmake_minimum_required(VERSION 3.10)
 # set the project name
 project(SimpleLinkedList LANGUAGES C)
 
-add_executable(SimpleLinkedList lists.c)
+add_subdirectory(src)
