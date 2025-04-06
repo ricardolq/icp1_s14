@@ -1,6 +1,5 @@
 cmake_minimum_required(VERSION 3.10)
 
-project(Session15 LANGUAGES C)
-
+project(Session14 LANGUAGES C)
 
 add_subdirectory(src)
